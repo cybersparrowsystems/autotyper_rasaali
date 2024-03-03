@@ -2,7 +2,7 @@
 Introducing Autotyper_Rasaali, the ultimate solution for effortlessly managing and inputting long and complex passwords! Tired of struggling with cumbersome passwords that seem impossible to type accurately every time? With Autotyper_Rasaali, those days are over. Our innovative autotyper streamlines the process, allowing you to seamlessly input even the most intricate passwords with just a click. Whether you're accessing your accounts, logging into secure systems, or managing sensitive information, Autotyper_Rasaali ensures efficiency and security every step of the way. Say goodbye to tedious typing and hello to hassle-free password management with Autotyper_Rasaali!
 
 
-  Manual for Autotyper_Rasaali
+**Manual for Autotyper_Rasaali**
 
 Step 1: Install Python and Pip
 
