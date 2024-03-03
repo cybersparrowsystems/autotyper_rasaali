@@ -17,18 +17,18 @@ Step 3: First Time Setup
 
 If you are a first-time user, follow these instructions:
 
-Run the Python file named "first_time_users.py".
+Run the Python file named "**first_time_users.py**".
 This script will install the required packages: pyautogui, pynput, and pyperclip.
 
 Step 4: Starting the Software
 
-To launch the Autotyper_Rasaali software:
+**To launch the Autotyper_Rasaali software:**
 
 Execute the Python file named "Autotyper_Rasaali.py".
 This will open a blank screen indicating that the software is ready to use.
 Directions for Using the Software:
 
-Typing Clipboard Content:
+**Typing Clipboard Content:**
 
 Start Typing: Press the F8 key to begin typing the content of the clipboard.
 Simulated Typing: The software will simulate typing each character with a random delay to emulate human typing speed. [Works on most of the places]
@@ -40,13 +40,13 @@ F8 - Start Typing ✅
 
 F9 - Stop Typing ❌
 
-Exiting the Software:
+**Exiting the Software:**
 
-To exit the software:
+**To exit the software:**
 
 Simply close the terminal or command prompt window where the script is running.
 Note: Ensure that you have clipboard content to type before initiating the typing process using the F8 key.
 
-Enjoy using Autotyper_Rasaali for automating your typing tasks efficiently!
+Enjoy using **Autotyper_Rasaali** for automating your typing tasks efficiently!
 
-#Rasaali - Eagle
+**#Rasaali - Eagle**
