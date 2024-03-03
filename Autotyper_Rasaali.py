@@ -13,7 +13,7 @@ def type_clipboard():
     text = pyperclip.paste()
     for char in text:
         pyautogui.typewrite(char)
-        delay = random.uniform(0.05, 0.19)  
+        delay = random.uniform(0.001, 0.005)  
         time.sleep(delay)
         if not typing_active:
             break
