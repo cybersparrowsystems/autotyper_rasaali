@@ -35,6 +35,7 @@ Simulated Typing: The software will simulate typing each character with a random
 Stop Typing: At any time, press the F9 key to stop typing.
 
 Note:
+
 F8 - Start Typing ✅
 
 F9 - Stop Typing ❌
