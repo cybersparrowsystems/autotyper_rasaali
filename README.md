@@ -1,4 +1,4 @@
-# Autotyper_Rasaali: Effortless Password Auto Typing tool ⌨️
+# Autotyper Rasaali: Effortless Password Auto Typing tool ⌨️
 
 Introducing **Autotyper_Rasaali**, the ultimate solution for effortlessly managing and inputting long and complex passwords! Tired of struggling with cumbersome passwords that seem impossible to type accurately every time? With Autotyper_Rasaali, those days are over.
 
